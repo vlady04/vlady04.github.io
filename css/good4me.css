@@ -30,7 +30,7 @@ body{
 --nav-bar:#FFD395;
 --nav-bar-icon:#27AF00 ;
 --nav-bar-hover:#3BFF03;
-/* transition:all 1s ease; */
+transition:all 1s ease;
 }
 body.dark-mode{
 --base-color:rgb(17, 17, 24);
