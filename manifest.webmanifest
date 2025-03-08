@@ -3,6 +3,7 @@
   "short_name": "good4me",
   "start_url": "/index.html",
   "display": "standalone",
+  "display_override": ["window-controls-overlay"],
   "background_color": "#fff",
   "description": "A recipe app.",
   "homepage": "index.html",
