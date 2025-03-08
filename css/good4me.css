@@ -216,7 +216,7 @@ a:focus,a:visited,a:active{
 	transition: 0.5s;
 	transition-delay: calc(0.1s * var(--i));
 	transform: rotate(0deg) translateX(75px);
-	color: inherit;
+	/*color: inherit;*/
 	
 
 }
