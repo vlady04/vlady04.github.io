@@ -130,7 +130,7 @@ body {
 }
 
 a{
-	-webkit-tap-highlight-color: var(--white);
+	-webkit-tap-highlight-color: transparent;
 }
 a:focus,a:visited,a:active{
 	outline: none;
