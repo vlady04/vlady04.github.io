@@ -244,7 +244,7 @@ a:focus,a:visited,a:active{
 	position: absolute;
 	width: 70px;
 	height: 70px;
-	background: var(--white);
+	background: #fff;
 	display: flex;
 	justify-content: center;
 	align-items: center;
