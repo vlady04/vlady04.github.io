@@ -3,7 +3,7 @@
   "short_name": "good4me",
   "start_url": "/index.html",
   "display": "standalone",
-"theme_color": "#0d4c73",
+ "theme_color": "rgb(255 218 185)"
 
   "display_override": ["window-controls-overlay"],
   "background_color": "#fff",
