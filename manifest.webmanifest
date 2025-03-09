@@ -4,7 +4,6 @@
   "start_url": "/index.html",
   "display": "standalone",
  "theme_color": "rgb(255 218 185)",
-
   "display_override": ["window-controls-overlay"],
   "background_color": "#fff",
   "description": "A recipe app.",
